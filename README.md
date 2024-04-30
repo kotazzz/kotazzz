@@ -64,5 +64,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kotazzz&show_icons=true&bg_color=00000000" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&bg_color=00000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotazzz&layout=compact&show_icons=true&bg_color=00000000" />
 </a>
