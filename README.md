@@ -7,9 +7,6 @@
   </a>
 </p>
 
-# kotazzz
-
-## Технологии и инструменты
 
 <p align="center">
   <!-- Языки -->
@@ -46,10 +43,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/Brave-FF1B2D?style=flat-square&logo=Brave&logoColor=white" alt="Brave">
 </p>
-
----
-
-## Динамика и достижения
 
 <p align="center">
   <!-- GitHub Trophy -->
